@@ -28,5 +28,4 @@ ARN is designed for large-scale training where stability is a cost factor. By pr
 ![Unstable Gradients](unstable_gradient.jpg)
 
 ### 3. Resilience to Explosive Gradients
-
-Explosive Gradients](stability_under%20explosive_gradients.jpg)
+![Explosive Gradients](stability_under%20explosive_gradients.jpg)
