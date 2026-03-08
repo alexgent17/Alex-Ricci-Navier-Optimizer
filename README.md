@@ -18,3 +18,14 @@ In high-stress testing (MNIST under 60% Gaussian Noise):
 
 ## 3. Industry Application
 ARN is designed for large-scale training where stability is a cost factor. By preventing "Loss Spikes" in Transformers and LLMs, ARN could save thousands of hours in GPU compute time.
+---
+## 📊 Technical Benchmarks
+
+### 1. Accuracy & Stability (With vs Without Noise)
+![Accuracy Comparison](with_noise_without_noise.jpg)
+
+### 2. Gradient Damping (Unstable Gradients)
+![Unstable Gradients](unstable_gradient.jpg)
+
+### 3. Resilience to Explosive Gradients
+![Explosive Gradients](stability_under_explosive_gradients.jpg)
