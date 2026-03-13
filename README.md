@@ -35,7 +35,7 @@ To validate the **Alex-Ricci-Navier (ARN)** engine, we conducted a comparative s
 * **Observation:** While standard optimizers exhibited high variance and "nervous" convergence, **ARN maintained a fluid and stable trajectory**, proving that the viscosity term effectively dampens chaotic oscillations.
 * **Proof:** The figure below shows ARN's superior robustness during the training process.
 
-![ARN Benchmark Results](imagen_demo.png)
+![ARN Benchmark Results](imagine_demo.jpg)
 
 *Figure: ARN (Blue) vs Adam (Red). ARN maintains a consistent path under high-noise conditions.*
 
